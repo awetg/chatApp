@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:bottomLeftRadius="@dimen/chatItemCornerRadius" android:bottomRightRadius="@dimen/chatItemCornerRadius" android:topLeftRadius="@dimen/chatItemCornerRadius"/>
+    <solid android:color="@color/primaryColor"/>
+    <padding android:left="@dimen/chatItemPadding" android:right="@dimen/chatItemPadding" android:top="@dimen/chatItemPadding" android:bottom="@dimen/chatItemPadding"/>
+</shape>

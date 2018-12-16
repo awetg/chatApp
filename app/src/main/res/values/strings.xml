@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+
+    <!--sharedPreference keys-->
+    <string name="USER_DATA">USERDATA</string>
+    <string name="TOKEN">TOKEN</string>
+    <string name="USER_NAME">USERNAME</string>
+
+    <!--ChatMessage Properties used in intent receive/send and notification data parsing(FirebaseService)-->
+    <string name="SENDER">SENDER</string>
+    <string name="MESSAGE">MESSAGE</string>
+    <string name="TIME">TIME</string>
+    <string name="CHAT_ID">CHAT_ID</string>
+    <string name="CHAT_NAME">CHAT_NAME</string>
+    <string name="READ">READ</string>
+
+    <!--Toast messages-->
+    <string name="MUST_PROVIDE_USERNAME">Must provide username.</string>
+    <string name="SERVER_NOT_CONNECTED_TRYING_TO_CONNECT">Not connected to server. trying to connect..</string>
+    <string name="CAN_NOT_LOGIN">Can\'t login with this username, try signing up.</string>
+    <string name="CAN_NOT_LOGIN_FORWARD_TO_SIGNUP">Can\'t login with this username, try signing up.</string>
+    <string name="CAN_NOT_CONNECT">Can\'t connect to server.</string>
+</resources>

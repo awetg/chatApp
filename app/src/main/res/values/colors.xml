@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?><!--?xml version="1.0" encoding="UTF-8"?-->
+<resources>
+    <color name="primaryColor">#192442</color>
+    <color name="primaryLightColor">#434c6d</color>
+    <color name="primaryDarkColor">#00001c</color>
+    <color name="secondaryColor">#258fde</color>
+    <color name="secondaryLightColor">#6bbfff</color>
+    <color name="secondaryDarkColor">#0062ac</color>
+    <color name="primaryTextColor">#ffffff</color>
+    <color name="secondaryTextColor">#60ffffff</color>
+
+    <color name="textColorThree">#f5c7c7c7</color>
+    <color name="homeBackgroundColor">#192442</color>
+    <color name="selectGroupBgColor">#9a6bbfff</color>
+    <color name="white">#ffffff</color>
+
+    <!--gradien background colors-->
+    <color name="startColor">#2A3450</color>
+    <color name="endColor">#FF192442</color>
+
+</resources>

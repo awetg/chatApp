@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--drawable dimensions -->
+    <dimen name="chatItemCornerRadius">12dp</dimen>
+    <dimen name="chatItemPadding">8dp</dimen>
+    <dimen name="chatItemElevation">4dp</dimen>
+</resources>
